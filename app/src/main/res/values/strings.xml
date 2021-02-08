@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ActivityView</string>
+    <string name="guide_hint_text">导航指南: </string>
 </resources>
